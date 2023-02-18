@@ -1,0 +1,86 @@
+
+
+ /* Custom HEX color CSS */
+
+/* Body style */
+body {
+  background-color: #e6c260;
+  font-family: "Noto Serif", serif;
+}
+
+/* Header style */
+header {
+
+  color: #e6c260;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
+
+header h1 {
+  margin: 0;
+}
+
+header img {
+  position: absolute;
+  top: 50%;
+  left: 10%;
+  transform: translate(-100%, -50%);
+  max-height: 80px;
+}
+
+/* Navigation style */
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #3b3633;
+}
+
+
+
+
+/* Main content style */
+main {
+  margin: 20px;
+}
+
+section {
+  background-color: #fff;
+  border: 2px solid #3b3633;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+
+section h2 {
+  color: #3b3633;
+  margin-top: 0;
+}
+
+section ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+section ul li {
+  margin-bottom: 10px;
+}
+
+/* Footer style */
+footer {
+  background-color: #3b3633;
+  color: #e6c260;
+  padding: 10px;
+  text-align: center;
+}
