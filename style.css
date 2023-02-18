@@ -32,7 +32,7 @@ header img {
 /* Navigation style */
 nav ul {
   list-style: none;
-  padding: 0;
+
   margin: 0;
 }
 
@@ -84,3 +84,4 @@ footer {
   padding: 10px;
   text-align: center;
 }
+
