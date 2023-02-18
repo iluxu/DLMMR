@@ -24,7 +24,7 @@ header h1 {
 header img {
   position: absolute;
   top: 50%;
-  left: 12%;
+  left: 14%;
   transform: translate(-100%, -50%);
   max-height: 80px;
 }
